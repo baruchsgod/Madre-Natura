@@ -1,0 +1,52 @@
+
+body  {
+  color: #ffffff;
+
+}
+
+h2  {
+  font-size: large;
+
+
+}
+
+
+/***********CLASS SELECTORS******************/
+.col  {
+  background-color: #50bda1;
+}
+
+
+.logo  {
+  width: 20%;
+  border-radius: 30px;
+}
+
+.positag  {
+  width: 25%;
+  margin: 0 auto 0 280px;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.second-div  {
+  background-color: #beebe9;
+  height: 400px;
+}
+
+.space  {
+  width: 10%;
+  margin: 0 auto 0 auto;
+}
+
+.top-nav {
+  background-color: #ffc2c2;
+  height: 40px;
+}
+
+.top-tittle  {
+  width: 15%;
+  margin: 0 auto 0 auto;
+  padding-top: 8px;
+  font-family: 'Great Vibes', cursive;
+}
